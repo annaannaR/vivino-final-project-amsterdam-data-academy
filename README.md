@@ -107,7 +107,7 @@ This project demonstrates practical experience in:
 
 ## Author
 
-**Anna Rogiewicz ** - LinkedIn Profile
+**Anna Rogiewicz [Linkedin Profil](https://www.linkedin.com/in/annadwdev)**
 
 Data Science | Data Analytics | Python | SQL | Power BI
 
